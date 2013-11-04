@@ -1,4 +1,4 @@
 rocknow_api
 ===========
 
-RESTful API de Rocnow.net en laravel4
+RESTful API de Rocknow.net en Laravel 4
